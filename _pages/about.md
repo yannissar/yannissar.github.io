@@ -1,7 +1,5 @@
 ---
-permalink: /
-title: 
-excerpt: 
+permalink: / 
 author_profile: true
 redirect_from: 
   - /about/
