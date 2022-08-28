@@ -21,6 +21,10 @@ Papers
   <li><b>On the estimation of network complexity: Dimension of Graphons</b>. <em>Journal of Machine Learning Research</em>, 2021, <a href="https://arxiv.org/abs/1909.02900">[ArXiv]</a>
   <li><b>Inference on random networks</b>. <em>PhD manuscript</em>. <a href="https://hal.inria.fr/tel-03041741">[HAL]</a> 
     </ul> 
+    
+    
+Teaching
+------
  
 
 
