@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Yann Issartel"
-  avatar           : "cropped-IMG-3489-1-300x270.jpg"
+  avatar           : "cropped-IMG-3489-300x270.jpg"
   bio              : "Associate Professor at Telecom Paris"
-  location         : "Palaiseau, France"
+  bio              : "Insititut Polytechnique de Paris"
+  location         : "19 place marguerite perey, 91120 Palaiseau, France"
   employer         :
   
   googlescholar    : 
-  email            : firstnamelastname@ensae.fr
+  email            : firstname.lastname@ensae.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
