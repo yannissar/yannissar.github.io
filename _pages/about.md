@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an associate professor at  Télécom Paris within the Institut Polytechnique de Paris.  I did a Ph.D at  Paris-Saclay University, in the Institut de Mathématiques d'Orsay, under the supervision of Christophe Giraud and Nicolas Verzelen.   I then was a postdoctoral researcher at  CREST-ENSAE, working with Cristina Butucea. My research interests lie in statistical machine learning, mainly on network analysis, non-parametric statistics and  differential privacy.
+I am an associate professor at  Télécom Paris within  the Institut Polytechnique de Paris.  I did my Ph.D at  the Institut de Mathématiques d'Orsay at Paris-Saclay University, with Christophe Giraud and Nicolas Verzelen as advisors.   I then moved to  CREST-ENSAE as a postdoctoral researcher, working with Cristina Butucea. My research interests lie in statistical machine learning, especially in network analysis, non-parametric statistics and data privacy.
 
 
 
