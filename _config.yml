@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yann Issartel"
-  avatar           : "IMG_YI_phot_profil.jpg"
+  avatar           : "IMG-3489-300x270.jpg"
   bio              : "Associate Professor"
   location         : "Institut Polytechnique de Paris"
   employer         :
   
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
