@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yann Issartel"
-  avatar           : "bio-photo.jpg"
+  avatar           : "IMG_YI_phot_profil.jpg"
   bio              : "Associate Professor"
   location         : "Institut Polytechnique de Paris"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
