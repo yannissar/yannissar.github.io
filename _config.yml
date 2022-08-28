@@ -82,10 +82,8 @@ analytics:
 author:
   name             : "Yann Issartel"
   avatar           : "cropped-IMG-3489-300x270.jpg"
-  bio              : "Associate Professor"
-  employer         : "Telecom Paris"
-  googlescholar    : "Insititut Polytechnique de Paris"
-  location         : "19 place marguerite perey, 91120 Palaiseau, France"
+  bio              : "Assoc. Professor at Telecom Paris"
+  location         : "91120 Palaiseau, France"
   
   
   email            : firstname.lastname@ensae.fr
