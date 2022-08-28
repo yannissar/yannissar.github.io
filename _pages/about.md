@@ -1,3 +1,6 @@
+
+
+
 **About me**
 ------
 I am an associate professor at  Télécom Paris within the Institut Polytechnique de Paris.  I did a Ph.D at  Paris-Saclay University, in the Institut de Mathématiques d'Orsay, under the supervision of Christophe Giraud and Nicolas Verzelen.   I then was a postdoctoral researcher at  CREST-ENSAE, working with Cristina Butucea. My research interests lie in statistical machine learning, mainly on network analysis, non-parametric statistics and  differential privacy.
@@ -37,6 +40,4 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
