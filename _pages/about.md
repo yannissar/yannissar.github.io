@@ -13,7 +13,7 @@ I am an associate professor at  Télécom Paris within the Institut Polytechniqu
 **Publications**
 ------
 <ul>
-  <li>Pair Matching: Links Prediction with Adaptive Queries. with C. Giraud, L. Lehéricy and M. Lerasle. [pdf] (58p)
+  <li>Pair Matching: Links Prediction with Adaptive Queries. with C. Giraud, L. Lehéricy and M. Lerasle. [<a href="[https://openclassrooms.com](https://arxiv.org/abs/1905.07342?context=math.ST)">pdf</a>] 
   >li>Statistical Seriation in Non-parametric Latent Space Models: an efficient and optimal algorithm. working paper. [pdf] (38p)
     </ul>
 
