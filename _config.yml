@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Yann Issartel"
   avatar           : "cropped-IMG-3489-300x270.jpg"
-  bio              : "Assoc Professor at Telecom Paris"
+  bio              : "Associate Professor at Telecom Paris"
   location         : "91120 Palaiseau, France"
   
   
   
-  email            : firstname.lastname@ensae.fr
+  
+  email            : "firstname.lastname@ensae.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
