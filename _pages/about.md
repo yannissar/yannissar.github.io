@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "About me"
+title: "Yann Issartel"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 ------
+Associate Professor <br>
+Telecom Paris <br>
+Adresse Palaiseau <br>
+E-mail: 
 
 **About me**
 ------
