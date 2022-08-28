@@ -83,11 +83,11 @@ author:
   name             : "Yann Issartel"
   avatar           : "cropped-IMG-3489-300x270.jpg"
   bio              : "Associate Professor"
-  employer         : "Telecom Paris <br />
-  wikipedia        : "Insititut Polytechnique de Paris"
+  employer         : "Telecom Paris"
+  googlescholar    : "Insititut Polytechnique de Paris"
   location         : "19 place marguerite perey, 91120 Palaiseau, France"
   
-  googlescholar    : 
+  
   email            : firstname.lastname@ensae.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
