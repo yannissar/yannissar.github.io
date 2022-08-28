@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am an associate professor at  Télécom Paris within the Institut Polytechnique de Paris.  I did a Ph.D at  Paris-Saclay University, in the Institut de Mathématiques d'Orsay, under the supervision of Christophe Giraud and Nicolas Verzelen.   I then was a postdoctoral researcher at  CREST-ENSAE, working with Cristina Butucea. My research interests lie in statistical machine learning, mainly on network analysis, non-parametric statistics and  differential privacy.
 
-------
+
 
 **Publications**
-
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
