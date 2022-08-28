@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Yann Issartel <br/>
-Telecom Paris <br/>
-Institut Polytechnique de Paris
-
-
-
 **About me**
 ------
 I am an associate professor at  Télécom Paris within the Institut Polytechnique de Paris.  I did a Ph.D at  Paris-Saclay University, in the Institut de Mathématiques d'Orsay, under the supervision of Christophe Giraud and Nicolas Verzelen.   I then was a postdoctoral researcher at  CREST-ENSAE, working with Cristina Butucea. My research interests lie in statistical machine learning, mainly on network analysis, non-parametric statistics and  differential privacy.
