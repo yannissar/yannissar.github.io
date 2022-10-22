@@ -30,13 +30,13 @@ Teaching
   <li><b>Courses</b></li>
     <ul>
       <li> Asymptotic Statistics, Télécom Paris, <it>Ms</it></li>
-        <li> Probability, Télécom Paris, <em>Bs</em></li>
+        <li> Probability, Télécom Paris, <it>Bs</it></li>
     </ul>
   <li><b>Tutorials</b></li>
   <ul>
-      <li> Probability Refresher, Ecole Polytechnique, Ensta, Ensae, Télécom Paris <em>M2 Data Science</em></li>
-        <li> Probability, Télécom Paris, <em>Ms</em></li>
-        <li> Martingales, Télécom Paris, <em>Ms<em/></li>
+      <li> Probability Refresher, Ecole Polytechnique, Ensta, Ensae, Télécom Paris <it>M2 Data Science</it></li>
+        <li> Probability, Télécom Paris, <it>Ms</it></li>
+        <li> Martingales, Télécom Paris, <it>Ms<it/></li>
     </ul>
 </ul>
  
