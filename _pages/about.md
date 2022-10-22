@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an associate professor at  Télécom Paris within the Institut Polytechnique de Paris.  I received my Ph.D in mathematics from Paris-Saclay University, where I was fortunate to be advised by Prof. Christophe Giraud and Nicolas Verzelen.   I then had the luck to be hosted by Prof. Cristina Butucea at CREST-ENSAE. 
+I am an associate professor at  Télécom Paris within the Institut Polytechnique de Paris.  I received my Ph.D in mathematics from Paris-Saclay University, where I was fortunate to be advised by Prof. Christophe Giraud and Nicolas Verzelen.   I then had the opportunity to work with Prof. Cristina Butucea at CREST-ENSAE. 
 
 My research interests lie in statistical machine learning, especially in network analysis, non-parametric statistics and data privacy.
 
