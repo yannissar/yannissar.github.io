@@ -34,8 +34,8 @@ Teaching
     </ul>
   <li><b>Tutorials</b></li>
   <ul>
-      <li> Probability Refresher, Ecole Polytechnique, Ensta, Ensae, Télécom Paris <em>M2 Data Science</em> </li>
-        <li> Probability, Télécom Paris, <it>Ms</it> </li>
+      <li> Probability Refresher, Ecole Polytechnique, Ensta, Ensae, Télécom Paris, <em>M2 Data Science</em> </li>
+        <li> Probability, Télécom Paris, <em>Ms</em> </li>
         <li> Martingales, Télécom Paris, Ms </li>
     </ul>
 </ul>
