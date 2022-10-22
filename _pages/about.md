@@ -26,7 +26,19 @@ Papers
     
 Teaching
 ------
-To write...
+<ul>
+  <li><b>Course</b></li>
+    <ul>
+      <li> Asymptotic Statistics, Télécom Paris, Ms</li>
+        <li> Probability, Télécom Paris, Bs</li>
+    </ul>
+  <li><b>Tutorials</b></li>
+  <ul>
+      <li> Probability Refresher, Institut Polytechnique de Paris, M2 Data Science</li>
+        <li> Probability, Télécom Paris, Ms</li>
+        <li> Martingales, Télécom Paris, Ms</li>
+    </ul>
+</ul>
  
 
 
