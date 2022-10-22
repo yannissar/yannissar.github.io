@@ -34,7 +34,7 @@ Teaching 1st semester 2022-2023
     </ul>
   <li><b>Tutorials</b></li>
   <ul>
-      <li> Probability Refresher, <em>M2 Data Science</em>, Ecole Polytechnique, Ensta, Ensae, Télécom Paris </li>
+      <li> Probability Refresher, <em>M2 Data Science</em>, Ecole Polytechnique Ensta Ensae Télécom Paris </li>
         <li> Probability, <em>Ms</em>, Télécom Paris </li>
     <li> Martingales, <em>Ms</em>, Télécom Paris </li>
     </ul>
