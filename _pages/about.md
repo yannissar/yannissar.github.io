@@ -27,7 +27,7 @@ Papers
 Teaching
 ------
 <ul>
-  <li><b>Course</b></li>
+  <li><b>Courses</b></li>
     <ul>
       <li> Asymptotic Statistics, Télécom Paris, Ms</li>
         <li> Probability, Télécom Paris, Bs</li>
