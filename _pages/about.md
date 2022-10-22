@@ -29,7 +29,7 @@ Teaching
 <ul>
   <li><b>Courses</b></li>
     <ul>
-      <li> Asymptotic Statistics, Télécom Paris, <em>Ms</em></li>
+      <li> Asymptotic Statistics, Télécom Paris, <it>Ms</it></li>
         <li> Probability, Télécom Paris, <em>Bs</em></li>
     </ul>
   <li><b>Tutorials</b></li>
