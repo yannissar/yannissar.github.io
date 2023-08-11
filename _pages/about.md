@@ -16,7 +16,7 @@ Papers
 ------
 <ul>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b>. with C. Giraud, L. Lehéricy and M. Lerasle. <a href="https://arxiv.org/abs/1905.07342?context=math.ST">[ArXiv]</a></li>
-  <li><b>Localization in 1D non-parametric latent space models from pairwise affinities</b>. with C. Giraud and N. Verzelen. <em> Electronic Journal of Statistics</em>, 2022,  <a href="https://arxiv.org/abs/1905.07342?context=math.ST">[ArXiv]</a></li>
+  <li><b>Localization in 1D non-parametric latent space models from pairwise affinities</b>. with C. Giraud and N. Verzelen. <em> Electronic Journal of Statistics</em>, 2022,  <a href="https://arxiv.org/abs/2108.03098">[ArXiv]</a></li>
     <li><b>Locally differentially private estimation of nonlinear functionals of discrete distributions</b>. with C. Butucea. <em>NeurIPS</em>, 2021, <a href="https://arxiv.org/abs/2107.03940">[ArXiv]</a></li>
   <li><b>On the estimation of network complexity: Dimension of Graphons</b>. <em>Journal of Machine Learning Research</em>, 2021, <a href="https://arxiv.org/abs/1909.02900">[ArXiv]</a></li>
   <li><b>Inference on random networks</b>. <em>PhD manuscript</em>. <a href="https://hal.inria.fr/tel-03041741">[HAL]</a></li> 
