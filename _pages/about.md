@@ -31,11 +31,12 @@ Teaching
     <ul>
       <li> Course: Asymptotic Statistics, <em>Ms</em>, 2022 </li>
         <li> Course: Measure Theory & Probability Theory, <em>Bs</em>, 2022-now  </li>
-       <li> Course: High-Dimensional Probability with Applications in Data Science <em>Bs</em>, 2023-now  </li>
+       <li> Course: High-Dimensional Probability with Applications in Data Science <em>Ms</em>, 2023-now  </li>
        <li> Tutorial: Conditional Distributions,  <em>Ms</em>, 2022-now </li>
       <li> Tutorial: Random Processes & Martingales,  <em>Ms</em>, 2022-now </li>
        <li> Tutorial: Markov Chains & Time Series,  <em>Ms</em>, 2022 </li>
     </ul>
+  
   <li><b>At Institut Polytechnique de Paris</b></li>
   <ul>
       <li> Tutorial: Probability Refresher, <em>M2 Data Science</em>,  2022 </li>
