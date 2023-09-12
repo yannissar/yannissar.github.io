@@ -24,19 +24,24 @@ Papers
    
     
     
-Teaching 1st semester 2022-2023
+Teaching
 ------
 <ul>
-  <li><b>Courses</b></li>
+  <li><b>At Télécom Paris</b></li>
     <ul>
-      <li> Asymptotic Statistics, <em>Ms</em>, Télécom Paris </li>
-        <li> Probability, <em>Bs</em>, Télécom Paris  </li>
+      <li> Course: Asymptotic Statistics, <em>Ms</em>, 2022 </li>
+        <li> Course: Measure Theory & Probability Theory, <em>Bs</em>, 2022-now  </li>
+       <li> Course: High-Dimensional Probability with Applications in Data Science <em>Bs</em>, 2023-now  </li>
+       <li> Tutorial: Conditional Distributions,  <em>Ms</em>, 2022-now </li>
+      <li> Tutorial: Random Processes & Martingales,  <em>Ms</em>, 2022-now </li>
+       <li> Tutorial: Markov Chains & Time Series,  <em>Ms</em>, 2022 </li>
     </ul>
-  <li><b>Tutorials</b></li>
+  <li><b>At Institut Polytechnique de Paris</b></li>
   <ul>
-      <li> Probability Refresher, <em>M2 Data Science</em>, Ecole Polytechnique Ensta Ensae Télécom Paris </li>
-        <li> Probability Mathematical Statistics and Hilbert Spaces, <em>Ms</em>, Télécom Paris </li>
-    <li> Martingales, <em>Ms</em>, Télécom Paris </li>
+      <li> Tutorial: Probability Refresher, <em>M2 Data Science</em>,  2022 </li>
+      <li> Mini-Course: Data Privacy, as a part of the course Recent Advances in Responsible AI, 2023 <em>M2 Data Science</em> </li>
+       
+    
     </ul>
 </ul>
  
