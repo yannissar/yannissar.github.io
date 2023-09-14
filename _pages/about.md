@@ -17,12 +17,16 @@ Papers
 <ul>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/abs/1905.07342?context=math.ST">[ArXiv]</a> <br />
     with C. Giraud, L. Lehéricy and M. Lerasle </li>
-  <li><b>Localization in 1D non-parametric latent space models from pairwise affinities</b>  <a href="https://arxiv.org/abs/2108.03098">[ArXiv]</a> <em> Electronic Journal of Statistics</em>, 2023 <br /> 
+  <li><b>Localization in 1D non-parametric latent space models from pairwise affinities</b>  <a href="https://arxiv.org/abs/2108.03098">[ArXiv]</a> <br /> 
+    <em> Electronic Journal of Statistics</em>, 2023 <br /> 
     with C. Giraud and N. Verzelen </li>
-    <li><b>Locally differentially private estimation of nonlinear functionals of discrete distributions</b> <a href="https://arxiv.org/abs/2107.03940">[ArXiv]</a> <em>NeurIPS</em>, 2021 <br /> 
+    <li><b>Locally differentially private estimation of nonlinear functionals of discrete distributions</b> <a href="https://arxiv.org/abs/2107.03940">[ArXiv]</a> <br /> 
+      <em>NeurIPS</em>, 2021 <br /> 
    with C. Butucea </li>
-  <li><b>On the estimation of network complexity: Dimension of Graphons</b> <a href="https://arxiv.org/abs/1909.02900">[ArXiv]</a>  <em>Journal of Machine Learning Research</em>, 2021 </li>
-  <li><b>Inference on random networks</b> <a href="https://hal.inria.fr/tel-03041741">[HAL]</a>  <em>PhD manuscript</em> </li> 
+  <li><b>On the estimation of network complexity: Dimension of Graphons</b> <a href="https://arxiv.org/abs/1909.02900">[ArXiv]</a> <br /> 
+    <em>Journal of Machine Learning Research</em>, 2021 </li>
+  <li><b>Inference on random networks</b> <a href="https://hal.inria.fr/tel-03041741">[HAL]</a> <br /> 
+    <em>PhD manuscript</em> </li> 
 </ul>
    
     
