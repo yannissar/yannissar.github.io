@@ -47,7 +47,7 @@ Teaching
   <li><b>At Institut Polytechnique de Paris</b></li>
   <ul>
       <li> Probability Refresher, <em>M2 Data Science</em>,  2022 </li>
-      <li> Data Privacy, as a part of the course Recent Advances in Responsible AI, <em>M2 Data Science</em>, 2023-now </li>
+      <li> Data Privacy, as a part of the course Recent Advances in Responsible AI, <em>M2DS</em>, 2023-now </li>
     </ul>
 </ul>
  
