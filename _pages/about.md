@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Associate professor at  Institut Polytechnique de Paris,  Télécom Paris. Member of the LTCI lab. Ph.D in mathematics from Paris-Saclay University, where I was fortunate to be advised by Prof. Christophe Giraud and Nicolas Verzelen.   I also had the opportunity to work at CREST-ENSAE with Prof. Cristina Butucea. 
+Associate professor at Institut Polytechnique de Paris,  Télécom Paris. Member of the LTCI lab. Ph.D in mathematics from Paris-Saclay University, advisors Christophe Giraud and Nicolas Verzelen.  Postdoc at CREST-ENSAE with Cristina Butucea. 
 
 My research lies in mathematical statistics and learning, especially in high-dimensional statistics, network analysis and data privacy.
 
@@ -15,7 +15,7 @@ My research lies in mathematical statistics and learning, especially in high-dim
 Papers
 ------
 <ul>
-  <li><b>Seriation for general matrices: Optimal rates and polynomial-time algortihm</b> <a href="">[ArXiv]</a> <br />
+  <li><b>Seriation for general matrices: Optimal rates and polynomial-time algortihm</b> <a href="f">[ArXiv]</a> <br />
      <em> preprint </em>, 2024 <br /> 
     with C. Giraud and N. Verzelen </li>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/abs/1905.07342?context=math.ST">[ArXiv]</a> <br />
