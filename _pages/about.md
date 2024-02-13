@@ -15,7 +15,7 @@ My research lies in mathematical statistics and learning, especially in high-dim
 Papers
 ------
 <ul>
-  <li><b>Seriation in general matrices: Optimal rates and polynomial-time algortihm</b> <a href="f">[ArXiv]</a> <br />
+  <li><b>Seriation in general matrices: Optimal rates with polynomial-time algortihm</b> <a href="f">[ArXiv]</a> <br />
      <em> preprint </em>, 2024 <br /> 
     with C. Giraud and N. Verzelen </li>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/abs/1905.07342?context=math.ST">[ArXiv]</a> <br />
