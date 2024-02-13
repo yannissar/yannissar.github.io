@@ -16,7 +16,7 @@ Papers
 ------
 <ul>
   <li><b>Seriation for general matrices: Optimal rates and polynomial-time algortihm</b> <a href="">[ArXiv]</a> <br />
-     <em> preprint</em>, 2024 <br /> 
+     <em> preprint </em>, 2024 <br /> 
     with C. Giraud and N. Verzelen </li>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/abs/1905.07342?context=math.ST">[ArXiv]</a> <br />
      <em> In revision Mathematical Statistics and Learning</em>, 2024 <br /> 
