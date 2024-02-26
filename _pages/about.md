@@ -19,7 +19,7 @@ Papers
      <em> preprint </em>, 2024 <br /> 
     with C. Giraud and N. Verzelen </li>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/abs/1905.07342?context=math.ST">[ArXiv]</a> <br />
-     <em> In revision Mathematical Statistics and Learning</em>, 2024 <br /> 
+     <em> Mathematical Statistics and Learning</em>, 2024 <br /> 
     with C. Giraud, L. Lehéricy and M. Lerasle </li>
   <li><b>Localization in 1D non-parametric latent space models from pairwise affinities</b>  <a href="https://arxiv.org/abs/2108.03098">[ArXiv]</a> <br /> 
     <em> Electronic Journal of Statistics</em>, 2023 <br /> 
