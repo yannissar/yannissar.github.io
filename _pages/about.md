@@ -18,7 +18,7 @@ Papers
   <li><b>Seriation on general matrices: Optimal rates with polynomial-time algortihm</b> <a href="f">[ArXiv]</a> <br />
      <em> preprint </em>, 2024 <br /> 
     with C. Giraud and N. Verzelen </li>
-  <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/abs/1905.07342?context=math.ST">[ArXiv]</a> <br />
+  <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/pdf/1905.07342v3.pdf">[ArXiv]</a> <br />
      <em> Mathematical Statistics and Learning</em>, 2024 <br /> 
     with C. Giraud, L. Lehéricy and M. Lerasle </li>
   <li><b>Localization in 1D non-parametric latent space models from pairwise affinities</b>  <a href="https://arxiv.org/abs/2108.03098">[ArXiv]</a> <br /> 
