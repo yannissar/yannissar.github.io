@@ -21,7 +21,7 @@ Papers
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/pdf/1905.07342v3.pdf">[ArXiv]</a> <br />
      <em> Mathematical Statistics and Learning</em>, 2024 <br /> 
     with C. Giraud, L. Lehéricy and M. Lerasle </li>
-  <li><b>Localization in 1D non-parametric latent space models from pairwise affinities</b>  <a href="https://arxiv.org/abs/2108.03098">[ArXiv]</a> <br /> 
+  <li><b>Localization in 1D non-parametric latent space models from pairwise affinities</b>  <a href="https://arxiv.org/pdf/2108.03098.pdf">[ArXiv]</a> <br /> 
     <em> Electronic Journal of Statistics</em>, 2023 <br /> 
     with C. Giraud and N. Verzelen </li>
   <li><b>Locally differentially private estimation of nonlinear functionals of discrete distributions</b> <a href="https://arxiv.org/abs/2107.03940">[ArXiv]</a> <br /> 
