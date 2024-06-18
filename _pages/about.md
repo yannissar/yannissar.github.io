@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Associate professor at Institut Polytechnique de Paris,  Télécom Paris. Member of  LTCI lab. Ph.D in mathematics from Paris-Saclay University, advisors Christophe Giraud and Nicolas Verzelen.  Postdoc at CREST-ENSAE with Cristina Butucea. 
+Assistant professor (aka maître de conférences)  at Institut Polytechnique de Paris -- Télécom Paris, and member of  the LTCI. Ph.D from Paris-Saclay University under the supervision of Christophe Giraud and Nicolas Verzelen.  Postdoc at CREST-ENSAE with Cristina Butucea. 
 
 My research lies in mathematical statistics and learning, especially in high-dimensional statistics, network analysis and data privacy.
 
