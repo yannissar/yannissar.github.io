@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <font size="+1">Assistant professor at Institut Polytechnique / Télécom Paris, and member of   LTCI. 
-I completed my Ph.D at Paris-Saclay University under the supervision of Christophe Giraud and Nicolas Verzelen, and  joined  CREST-ENSAE as a postdoc, working with Cristina Butucea. </font> <br />
+I completed my Ph.D at Paris-Saclay University under the supervision of Christophe Giraud and Nicolas Verzelen, and was a postdoctoral researcher at CREST-ENSAE, working with Cristina Butucea. </font> <br />
 
 
 <font size="+1">My research lies in mathematical statistics and learning, especially in high-dimensional statistics, network analysis and data privacy.  </font>
