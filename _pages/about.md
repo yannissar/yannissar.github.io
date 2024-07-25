@@ -50,7 +50,7 @@ Teaching at Institut Polytechnique / Télécom Paris
       <li> Random Processes & Martingales,  <em>Ms</em> </li>
     </ul>
   
-  <li><b> Past courses </b></li>
+  <li><b> Past courses / tutorials </b></li>
   <ul>
       <li> Probability Refresher, <em> Ms Data Science</em> </li>
       <li> Asymptotic Statistics, <em>Ms Stochastic modeling </em> </li>
