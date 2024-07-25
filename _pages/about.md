@@ -53,8 +53,8 @@ Teaching at Institut Polytechnique / Télécom Paris
   <li><b> Past courses / tutorials </b></li>
   <ul>
       <li> Probability Refresher, <em> Ms Data Science</em> </li>
-      <li> Asymptotic Statistics, <em>Ms Stochastic modeling </em> </li>
-      <li> Tutorial: Markov Chains & Time Series,  <em>Ms</em> </li> 
+      <li> Asymptotic Statistics (course), <em>Ms Stochastic modeling </em> </li>
+      <li> Markov Chains & Time Series (tutorials),  <em>Ms</em> </li> 
     </ul>
 </ul>
  
