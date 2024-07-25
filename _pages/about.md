@@ -38,13 +38,13 @@ Papers
 Teaching at Institut Polytechnique / Télécom Paris 
 ------
 <ul>
-  <li><b> Courses </b></li>
+  <li><b> Courses 2024-2025 </b></li>
     <ul>
       <li> Measure Theory & Probability Theory, <em>Bs</em>  </li>
        <li> High-Dimensional Probability , <em>Ms Stochastic modeling </em>  </li>
       <li> Data Privacy, as part of Recent Advances in Responsible AI, <em>Ms Data Science </em> </li>
     </ul>
-    <li><b> Tutorials </b></li>
+    <li><b> Tutorials 2024-2025</b></li>
     <ul>
        <li> Conditional Distributions,  <em>Ms</em> </li>
       <li> Random Processes & Martingales,  <em>Ms</em> </li>
