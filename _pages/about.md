@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="+1">Assistant professor (aka maître de conférences)  at Institut Polytechnique de Paris/Télécom Paris, and member of  the LTCI. 
+<font size="+1">Assistant professor (aka maître de conférences)  at Institut Polytechnique de Paris / Télécom Paris, and member of  the LTCI. 
 I completed my Ph.D at Paris-Saclay University under the supervision of Christophe Giraud and Nicolas Verzelen, and  joined  CREST-ENSAE as a postdoc, working with Cristina Butucea. </font> <br />
 
 
@@ -35,23 +35,26 @@ Papers
    
     
     
-Teaching
+Teaching at Institut Polytechnique / Télécom Paris 
 ------
 <ul>
-  <li><b>At Télécom Paris</b></li>
+  <li><b> Courses </b></li>
     <ul>
-      <li> Course: Asymptotic Statistics, <em>Ms</em>, 2022 </li>
-        <li> Course: Measure Theory & Probability Theory, <em>Bs</em>, 2022-now  </li>
-       <li> Course: High-Dimensional Probability & Applications in Data Science, <em>Ms</em>, 2023-now  </li>
-       <li> Tutorial: Conditional Distributions,  <em>Ms</em>, 2022-now </li>
-      <li> Tutorial: Random Processes & Martingales,  <em>Ms</em>, 2022-now </li>
-       <li> Tutorial: Markov Chains & Time Series,  <em>Ms</em>, 2022 </li>
+      <li> Measure Theory & Probability Theory, <em>Bs</em>  </li>
+       <li> High-Dimensional Probability with applications in Data Science, <em>Ms Stochastic modeling </em>  </li>
+      <li> Data Privacy, as part of Recent Advances in Responsible AI, <em>Ms Data Science </em> </li>
+    </ul>
+    <li><b> Tutorials </b></li>
+    <ul>
+       <li> Conditional Distributions,  <em>Ms</em> </li>
+      <li> Random Processes & Martingales,  <em>Ms</em> </li>
     </ul>
   
-  <li><b>At Institut Polytechnique de Paris</b></li>
+  <li><b> Past courses </b></li>
   <ul>
-      <li> Probability Refresher, <em>M2 Data Science</em>,  2022 </li>
-      <li> Data Privacy, part of the course Recent Advances in Responsible AI, <em>M2DS</em>, 2023-now </li>
+      <li> Probability Refresher, <em> Ms Data Science</em> </li>
+      <li> Asymptotic Statistics, <em>Ms Stochastic modeling </em> </li>
+      <li> Tutorial: Markov Chains & Time Series,  <em>Ms</em> </li> 
     </ul>
 </ul>
  
