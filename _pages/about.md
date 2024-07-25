@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="+1">Assistant professor (aka maître de conférences)  at Institut Polytechnique de Paris / Télécom Paris, and member of  the LTCI. 
+<font size="+1">Assistant professor (maître de conférences)  at Institut Polytechnique / Télécom Paris, and member of  the LTCI. 
 I completed my Ph.D at Paris-Saclay University under the supervision of Christophe Giraud and Nicolas Verzelen, and  joined  CREST-ENSAE as a postdoc, working with Cristina Butucea. </font> <br />
 
 
