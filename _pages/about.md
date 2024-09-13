@@ -35,7 +35,7 @@ Papers
    
     
     
-Teaching at Institut Polytechnique / Télécom Paris 
+Teaching at Institut Polytechnique/Télécom Paris 
 ------
 <ul>
   <li><b> Courses  </b></li>
