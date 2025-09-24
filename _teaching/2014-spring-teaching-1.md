@@ -4,7 +4,7 @@ collection: teaching material
 type: "1A course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Télécom Paris"
-date: 2014
+date: 2015-01-01
 location: "City, Country"
 ---
 
