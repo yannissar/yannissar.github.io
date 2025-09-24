@@ -2,7 +2,7 @@
 title: "Probabilités"
 collection: teaching material
 type: "1A course"
-permalink: /teaching/Td_2_correction.pdf
+permalink: /teaching/
 venue: "Télécom Paris"
 date: 
 location: "City, Country"
