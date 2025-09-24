@@ -1,6 +1,6 @@
 ---
 title: "Probabilités"
-collection: teaching
+collection: teaching material
 type: "1A course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Télécom Paris"
