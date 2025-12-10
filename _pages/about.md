@@ -17,7 +17,7 @@ I completed my Ph.D at Paris-Saclay University under the supervision of Christop
 Papers
 ------
 <ul>
-  <li><b>Minimax optimal seriation in polynomial time</b> <a href="[https://arxiv.org/abs/2405.08747]">[ArXiv]</a> <br />
+  <li><b>Minimax optimal seriation in polynomial time</b> <a href="https://arxiv.org/abs/2405.08747">[ArXiv]</a> <br />
      <em> in revision</em>, 2025 <br /> 
     with C. Giraud and N. Verzelen </li>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/pdf/1905.07342v3.pdf">[ArXiv]</a> <br />
