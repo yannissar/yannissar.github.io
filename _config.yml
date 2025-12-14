@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yann Issartel"
-  avatar           : "cropped-IMG-3489-300x270.jpg"
+  avatar           : # "cropped-IMG-3489-300x270.jpg"
   bio              : "Assistant Professor              at Institut Polytechnique de Paris"
   location         : "91120 Palaiseau, France"
   
