@@ -18,7 +18,7 @@ Papers
 ------
 <ul>
   <li><b>Minimax optimal seriation in polynomial time</b> <a href="https://arxiv.org/abs/2405.08747">[ArXiv]</a> <br />
-     <em> in revision</em>, 2025 <br /> 
+     <em> to appear in Annals of Statistics</em> <br /> 
     with C. Giraud and N. Verzelen </li>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/pdf/1905.07342v3.pdf">[ArXiv]</a> <br />
      <em> Mathematical Statistics and Learning</em>, 2024 <br /> 
