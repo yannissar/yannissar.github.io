@@ -41,7 +41,7 @@ Teaching at Institut Polytechnique/Télécom Paris
   <li><b> Courses  </b></li>
     <ul>
       <li> Measure & Probability Theory, <em>Bs</em>  </li>
-       <li> High-Dimensional Probability, <em>Ms Stochastic modeling </em>  </li>
+       <li> Statistical Learning, <em>Ms Stochastic modeling </em>  </li>
       <li> Data Privacy, as part of Recent Advances in Responsible AI, <em>Ms Data science </em> </li>
     </ul>
     <li><b> Tutorials </b></li>
@@ -52,6 +52,7 @@ Teaching at Institut Polytechnique/Télécom Paris
   
   <li><b> Past </b></li>
   <ul>
+      <li> High-Dimensional Probability, <em>Ms Stochastic modeling </em>  </li>
       <li> Probability Refresher, <em> Ms Data science</em> </li>
       <li> Asymptotic Statistics (course), <em>Ms Stochastic modeling </em> </li>
       <li> Markov Chains & Time Series (tutorials),  <em>Ms</em> </li> 
