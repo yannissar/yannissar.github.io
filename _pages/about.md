@@ -52,7 +52,7 @@ Teaching at Institut Polytechnique/Télécom Paris
   
   <li><b> Past </b></li>
   <ul>
-      <li> High-Dimensional Probability, <em>Ms Stochastic modeling </em>  </li>
+      <li> High-Dimensional Probability (course), <em>Ms Stochastic modeling </em>  </li>
       <li> Probability Refresher, <em> Ms Data science</em> </li>
       <li> Asymptotic Statistics (course), <em>Ms Stochastic modeling </em> </li>
       <li> Markov Chains & Time Series (tutorials),  <em>Ms</em> </li> 
