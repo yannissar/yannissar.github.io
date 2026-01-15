@@ -17,7 +17,7 @@ I completed my Ph.D at Paris-Saclay University under the supervision of Christop
 Papers
 ------
 <ul>
-  <li><b>Active Seriation: Efficient ordering recovery with statistical guarantees</b> <a href="https://openreview.net/pdf?id=wKG45sR1Jq">[Pdf]</a> <br />
+  <li><b>Active Seriation: efficient ordering recovery with statistical guarantees</b> <a href="https://openreview.net/pdf?id=wKG45sR1Jq">[Pdf]</a> <br />
      <em> NeurIPS</em>, 2025 <br /> 
     with J. Cheshire </li>
   <li><b>Minimax optimal seriation in polynomial time</b> <a href="https://arxiv.org/abs/2405.08747">[ArXiv]</a> <br />
