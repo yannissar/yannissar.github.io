@@ -20,7 +20,7 @@ Papers
   <li><b>Active Seriation: efficient ordering recovery with statistical guarantees</b> <a href="https://openreview.net/pdf?id=wKG45sR1Jq">[Pdf]</a> <br />
      <em> NeurIPS</em>, 2025 <br /> 
     with J. Cheshire </li>
-  <li><b>Minimax optimal seriation in polynomial time</b> <a href="https://arxiv.org/abs/2405.08747">[ArXiv]</a> <br />
+  <li><b>Minimax optimal seriation in polynomial time</b> <a href="https://arxiv.org/pdf/2405.08747">[ArXiv]</a> <br />
      <em> to appear in Annals of Statistics</em> <br /> 
     with C. Giraud and N. Verzelen </li>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/pdf/1905.07342v3.pdf">[ArXiv]</a> <br />
