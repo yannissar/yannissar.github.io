@@ -51,6 +51,7 @@ Teaching at Institut Polytechnique/Télécom Paris
     <ul>
        <li> Conditional Distributions,  <em>Ms</em> </li>
       <li> Random Processes & Martingales,  <em>Ms</em> </li>
+      <li> Markov Chains & Time Series,  <em>Ms</em> </li> 
     </ul>
   
   <li><b> Past </b></li>
@@ -58,7 +59,6 @@ Teaching at Institut Polytechnique/Télécom Paris
       <li> High-Dimensional Probability (course), <em>Ms Stochastic modeling </em>  </li>
       <li> Probability Refresher, <em> Ms Data science</em> </li>
       <li> Asymptotic Statistics (course), <em>Ms Stochastic modeling </em> </li>
-      <li> Markov Chains & Time Series (tutorials),  <em>Ms</em> </li> 
     </ul>
 </ul>
  
