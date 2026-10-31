@@ -18,7 +18,7 @@ Papers
 ------
 <ul>
   <li><b>On the privacy cost for dependent Gaussian data: spectral density estimation under local differential privacy</b> <a href="https://arxiv.org/abs/2608.24847">[ArXiv]</a> <br />
-     <em> Preprint</em> <br /> with F. Roueff </li>
+     <em> Preprint</em>  with F. Roueff </li>
    <li><b>Active Seriation: efficient ordering recovery with statistical guarantees</b> <a href="https://arxiv.org/abs/2603.15336">[ArXiv]</a> <br />
      <em> NeurIPS</em> <br /> with J. Cheshire </li>
   <li><b>Minimax optimal seriation in polynomial time</b> <a href="https://arxiv.org/pdf/2405.08747">[ArXiv]</a> <br />
