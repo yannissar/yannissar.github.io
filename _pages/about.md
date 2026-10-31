@@ -22,13 +22,13 @@ Papers
    <li><b>Active Seriation: efficient ordering recovery with statistical guarantees</b> <a href="https://arxiv.org/abs/2603.15336">[ArXiv]</a> <br />
      <em> NeurIPS</em>, with J. Cheshire </li>
   <li><b>Minimax optimal seriation in polynomial time</b> <a href="https://arxiv.org/pdf/2405.08747">[ArXiv]</a> <br />
-     <em> Annals of Statistics</em> <br /> with C. Giraud and N. Verzelen </li>
+     <em> Annals of Statistics</em>, with C. Giraud and N. Verzelen </li>
   <li><b>Pair Matching: Links Prediction with Adaptive Queries</b> <a href="https://arxiv.org/pdf/1905.07342v3.pdf">[ArXiv]</a> <br />
-     <em> Mathematical Statistics and Learning</em> <br /> with C. Giraud, L. Lehéricy and M. Lerasle </li>
+     <em> Mathematical Statistics and Learning</em>, with C. Giraud, L. Lehéricy and M. Lerasle </li>
   <li><b>Localization in 1D non-parametric latent space models from pairwise affinities</b>  <a href="https://arxiv.org/pdf/2108.03098.pdf">[ArXiv]</a> <br /> 
-    <em> Electronic Journal of Statistics</em> <br /> with C. Giraud and N. Verzelen </li>
+    <em> Electronic Journal of Statistics</em>, with C. Giraud and N. Verzelen </li>
   <li><b>Locally differentially private estimation of nonlinear functionals of discrete distributions</b> <a href="https://arxiv.org/pdf/2107.03940">[ArXiv]</a> <br /> 
-      <em>NeurIPS</em> <br /> with C. Butucea </li>
+      <em>NeurIPS</em>, with C. Butucea </li>
   <li><b>On the estimation of network complexity: Dimension of Graphons</b> <a href="https://arxiv.org/pdf/1909.02900.pdf">[ArXiv]</a> <br /> 
     <em>Journal of Machine Learning Research</em> </li>
 </ul>
